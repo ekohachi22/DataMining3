@@ -1,0 +1,4 @@
+[core]
+    remote = main_remote
+['remote "main_remote"']
+    url = ../data_rep
